@@ -24,6 +24,7 @@ body {
   background: var(--color-background);
   color: var(--color-text);
   width: 100vw;
+  margin: 0;
 }
 
 a {
