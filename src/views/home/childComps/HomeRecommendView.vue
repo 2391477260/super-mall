@@ -25,7 +25,9 @@
 
 <style scoped>
   .recommends{
+    margin-bottom: 5px;
     display: flex;
+    box-shadow:0 5px rgba(100,100,100,0.2);
   }
   .recommend{
     padding-top: 15px;
